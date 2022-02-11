@@ -8,5 +8,8 @@
   "editor.formatOnPaste": true,
   "cSpell.words": [
     "tailwindcss"
-  ]
+  ],
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features",
+  }
 }
