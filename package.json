@@ -1,7 +1,7 @@
 {
   "name": "tw-css-template",
   "version": "1.0.0",
-  "description": "Template for TwilWindCSS with Prettier TailWindCSS Formatter and VSCode Configs",
+  "description": "Template for TailWindCSS with Prettier TailWindCSS Formatter and VSCode Configs",
   "scripts": {
     "build:styles": "tailwindcss build -i ./src/styles.css -o ./public/styles.css --watch",
     "build:production": "tailwindcss build -i ./src/styles.css -o ./public/styles.css --minify"
