@@ -32,7 +32,7 @@ I was having an annoying issue. Which is, I had to install packages and setup en
   `git clone https://github.com/Ahsan40/tw-css-template.git`
 - Open the dir `cd tw-css-template`
 - Update packages
-  `npm update`
+  `npm install`
 - Remove `README.md` file and `.git` folder
 - Configure `package.json` and `tailwind.config.js` to your needs
 
