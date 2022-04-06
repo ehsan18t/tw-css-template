@@ -77,8 +77,8 @@ Note: These commands should works on all os.
 
 Well, I am using windows so I've made some scripts which will make life a little easier for windows users.
 
-- `build-styles` : This file will build the styles with tailwind `jit` compiler and keep watching. Whenever there is change in any file inside `public` folder, css will be build again.
-- `build-style-production` : This file will do the same thing like the previous one the only exception is that the generated file with this script will be a lot smaller. As the file name stated, you should use it when the design is done and project is ready to launch. Also this script won't keep watching for the changes as this is the final product
+- `watch-all` : This file will build the styles with tailwind `jit` compiler and keep watching. Whenever there is change in any file inside `public` folder, css will be build again.
+- `build-all` : This file will do the same thing like the previous one the only exception is that the generated file with this script will be a lot smaller. As the file name stated, you should use it when the design is done and project is ready to launch. Also this script won't keep watching for the changes as this is the final product
 
 &nbsp;
 &nbsp;
