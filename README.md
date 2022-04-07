@@ -8,6 +8,7 @@ I was having an annoying issue. Which is, I had to install packages and setup en
 # Features
 
 - Basic TailWindCSS Setup
+- Autoprefixier Setup
 - Prettier for TailwindCSS
 - Necessary VSCode settings for the workspace
 - Necessary build scripts

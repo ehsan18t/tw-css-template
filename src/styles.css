@@ -3,3 +3,7 @@
 @tailwind utilities;
 
 /* My Classes */
+
+.auto-prefix-test {
+	@apply appearance-none;
+}
